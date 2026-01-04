@@ -1,5 +1,5 @@
 {
-  "name": "arslan-md-mini",
+  "name": "high-power-mini-bot",
   "version": "1.0.0",
   "description": " WhatsApp Bot with Multi-Number Support",
   "main": "index.js",
@@ -29,8 +29,8 @@
     "bot",
     "multi-device",
     "baileys",
-    "sula-md"
+    "high-power-mini-bot"
   ],
-  "author": "Arslan-MD",
+  "author": "high-power-mini-bot",
   "license": "MIT"
 }
