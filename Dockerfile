@@ -4,7 +4,7 @@ FROM node:lts-buster
 WORKDIR /app
 
 # Copy all local files to container
-COPY .இந்த .
+COPY ..
 
 # Install dependencies
 RUN npm install && npm install -g pm2
